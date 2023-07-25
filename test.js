@@ -1,2 +1,4 @@
-console.log('hello world');
-function fn();
+function fn() {
+    console.log('hello world');
+}
+fn();
