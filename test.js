@@ -1,4 +1,6 @@
 function fn() {
     console.log('hello world');
 }
-fn();
+if(true) {
+    fn();
+}
